@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+
+
+#reg input {
+    font-size: 10px;
+    padding: 10px 10px;
+    width: 97%;
+    border: 2px solid green;
+    border-radius: 5px;
+    outline: none;
+    opacity: 90%;
+    background-color: #dcdcdc;
+    
+}
+
+#reg button {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px 0;
+    padding: 5px 10px;
+    width: 40%;
+    border: 2px solid green ;
+    border-radius: 25px;
+    background-color: #dcdcdc;
+}
+
+#reg button:hover {
+    color:white;
+    background: green;
+}
+

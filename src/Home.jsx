@@ -4,8 +4,10 @@ function Home() {
   return (
     <>
        <div style={style.container}>
-        <h1>Bienvenue sur notre projet mercredi!</h1>
-        <p>Decouvrez nous en faisant un tour</p>
+        <h1>Bienvenue sur notre projet mercredi!</h1> <br />
+        
+        <p>Decouvrez nous en faisant un tour</p> <br />
+
         <button style={style.button}>Explorer</button>
        </div>
     </>
