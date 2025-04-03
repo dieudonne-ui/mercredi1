@@ -2,8 +2,8 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer style={{textAlign:"center", padding: "10px",background:"f1f1f1", marginTop:"20px"}}>
-      <p>2025 -Pojet mercredi</p>
+    <footer style={{textAlign:"center", padding: "10px",background:"f1f1f1", marginTop:"20px", backgroundColor: 'green', width: '800px'}}>
+      <p style={{color: 'white'}}>2025 -Pojet mercredi</p>
        
     </footer>
   )
